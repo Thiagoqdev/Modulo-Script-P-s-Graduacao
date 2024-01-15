@@ -1,0 +1,54 @@
+{
+  "alunos": [
+    {
+      "nome": "Thiago Queiroz",
+      "matricula": "123",
+      "curso": "Sistemas para internet",
+      "id": "8259"
+    },
+    {
+      "id": "7776",
+      "nome": "Carlos",
+      "matricula": "12",
+      "curso": "Sistemas para internet"
+    },
+    {
+      "id": "5966",
+      "nome": "Alf",
+      "matricula": "321",
+      "curso": "Sistemas para internet"
+    },
+    {
+      "id": "be70",
+      "nome": "Estevão",
+      "matricula": "99",
+      "curso": "Sistemas para internet"
+    }
+  ],
+  "disciplinas": [
+    {
+      "nome": "Programação I",
+      "cargaHoraria": "40h",
+      "professor": "Thiago Queiroz",
+      "status": "Obrigatória",
+      "observacoes": "aprendendo a utilizar C+ e C ++",
+      "id": "1"
+    },
+    {
+      "nome": "Introdução a programação",
+      "cargaHoraria": "20H",
+      "professor": "Duarte Filho",
+      "status": "Obrigatória",
+      "observacoes": "Aprendendo as tag html e css.",
+      "id": "2"
+    },
+    {
+      "nome": "Java",
+      "cargaHoraria": "90",
+      "professor": "Nelio Do Java",
+      "status": "Opcional",
+      "observacoes": "Aprendendo POO em JAVA",
+      "id": "02d9"
+    }
+  ]
+}
